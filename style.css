@@ -259,5 +259,49 @@ span{
             width: 70vh;
             margin-top: 4rem;
         }
+} 
+
+.skills-page{ 
+    padding: 100px 10%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    color: white;
+    font-size: 3rem;
+    background: url(image.jpg)
 }
     
+.skills-page h1{
+    background-color:black  
+}
+
+.Contact-page{ 
+    padding: 100px 10%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    color: white;
+    font-size: 3rem;
+    background: url(image.jpg)
+}
+    
+.Contact-page h1{
+    background-color:black  
+}
+
+.Experience-page{ 
+    padding: 100px 10%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    color: white;
+    font-size: 3rem;
+    background: url(image.jpg)
+}
+    
+.Experience-page h1{
+    background-color:black  
+}
